@@ -11,5 +11,5 @@ Bu, benim kişisel portfolyo web sitemdir. HTML, CSS ve biraz JavaScript öğren
 - İletişim kısmından bana ulaşabilirsiniz.
 
 
-
-
+## Lisans
+MIT Lisansı © 2025 Fırat Can Karakoç
