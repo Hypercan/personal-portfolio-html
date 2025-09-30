@@ -1,2 +1,15 @@
-# personal-portfolio-html
-This is a simple HTML Portfolio Page to Practice and Learn HTML.
+# Fırat Can Karakoç Portfolyo Sitesi
+
+[Site Linki](https://hypercan.github.io/personal-portfolio-html/)
+
+Bu, benim kişisel portfolyo web sitemdir. HTML, CSS ve biraz JavaScript öğrenmek üzerine geliştirdim.
+
+
+
+- Ana sayfada hakkımda bilgileri görebilirsiniz.
+- Projeler kısmında yaptığım çalışmaları inceleyebilirsiniz.
+- İletişim kısmından bana ulaşabilirsiniz.
+
+
+
+
