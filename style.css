@@ -1,0 +1,71 @@
+header{
+position:static;
+background-color: darkblue;
+color: white;
+padding: 20px 20px;
+text-align: center;
+}
+
+header nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+header nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+header nav ul li a:hover
+{
+    text-decoration: underline;
+    color: lightskyblue;
+}
+
+main{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: ;
+}
+
+section{
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: darkblue;
+    border-radius: 30px;
+}
+
+section h2{
+    margin-top: 0;
+    color: white;
+}
+
+section p{
+    line-height: 1.6;
+    color: white;
+}
+section li{
+    margin-bottom: 10px;
+    color: white;
+
+}
+
+body nav ul li a{
+    color: blue;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+footer{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 10px 0px;
+    bottom: 0;
+    width: 100%;
+}
